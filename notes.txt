@@ -1,0 +1,7 @@
+First we are going to make some changes
+Then we shall make a few more changes
+
+And finally, we are going to make very many changes. These changes should be significant.
+
+You know we are working on a serious thing here and we cannot afford to make changes that 
+are trivial
