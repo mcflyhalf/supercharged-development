@@ -1,2 +1,4 @@
 Principal dev: Dev Eloper
 Senior dev: Python Fanboy
+Junior dev: Javascript Bootcamp
+Project manager: CS Major
