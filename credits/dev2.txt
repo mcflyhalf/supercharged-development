@@ -1,1 +1,3 @@
 Dev name: Dev2
+City of origin: Timbuktu
+Preferred OS: MacOS (Catalina)
